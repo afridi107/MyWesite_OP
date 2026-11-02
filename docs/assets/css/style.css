@@ -259,3 +259,17 @@ section { scroll-margin-top: 92px; }
 .hero-media img { width: 100%; height: 100%; object-fit: cover; object-position: 72% 50%; }
 .duas-12 { grid-template-columns: 1fr; }
 @media (min-width: 900px) { .duas-12 { grid-template-columns: 1fr; } .dua-list { columns: 3; } }
+
+/* Larger wordmark in the header, even narrower side margins */
+:root { --max: 1680px; }
+.container { padding: 0 16px; }
+@media (min-width: 720px) { .container { padding: 0 clamp(20px, 2.5vw, 40px); } }
+.site-header .brand .b-script { font-size: 2.3rem; }
+.site-header .brand .b-caps { font-size: 1.75rem; }
+@media (min-width: 900px) {
+  .site-header .brand .b-script { font-size: 2.9rem; }
+  .site-header .brand .b-caps { font-size: 2.2rem; }
+  .header-inner { min-height: 88px; }
+  section { scroll-margin-top: 100px; }
+}
+@media (max-width: 519px) { .header-tools > .btn { display: none; } }
