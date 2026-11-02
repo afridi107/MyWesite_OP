@@ -195,3 +195,15 @@ section { padding: 64px 0; scroll-margin-top: 70px; }
 .amp { font-family: var(--f-body); font-style: normal; font-size: 0.6em; vertical-align: 0.12em; padding: 0 0.06em; }
 .arabic-accent { text-align: left; }
 section { scroll-margin-top: 92px; }
+
+/* Product photo grids */
+@media (min-width: 620px) { .grid-4 { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 980px) { .grid-4 { grid-template-columns: repeat(4, 1fr); } }
+@media (max-width: 619px) { .grid-4 { grid-template-columns: repeat(2, 1fr); gap: 12px; } .grid-4 .card-body { padding: 12px; } .grid-4 .btn-small { padding: 6px 10px; font-size: 0.8rem; } }
+.card-media.square { aspect-ratio: 1; background: var(--white); }
+.card-body h4 { font-family: var(--f-label); font-weight: 600; font-size: 0.95rem; color: var(--brown); margin: 0; line-height: 1.35; }
+.feature-media > img { width: 100%; }
+.thumbs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 10px; }
+.thumbs figure { margin: 0; border-radius: 10px; overflow: hidden; aspect-ratio: 1; }
+.thumbs img { width: 100%; height: 100%; object-fit: cover; }
+@media (max-width: 619px) { .hide-sm { display: none; } .grid-4 .btn-row .btn { width: 100%; } }
