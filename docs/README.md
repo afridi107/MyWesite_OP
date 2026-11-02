@@ -62,7 +62,7 @@ All images are WebP in several sizes (`srcset`), lazy-loaded below the fold and 
   - Arabic + German, black & white: `German_White_BG` (B0F91BPRGZ, .de) and `German_Transparent_BG` (B0F8VQGDZ8, .de).
   - Arabic + English: `English_White_BG` (B0GM8J5HFS, .co.uk), `English_Transparent_BG` (B0GP6YP3DD, .de + .co.uk), `English_White_BG_CL` (B0FDWNMXJL, .de + .co.uk) and `English_Transparent_BG_CL` (B0FDVJSX24, .de + .co.uk). CL = colour (gold).
   - The thumbnails come from the owner's design images. The transparent versions show the same design on wood, to make the see-through look visible.
-  - The hero shows the framed list photo: "Enthaltene Duas" on the German site (`hero-duas-*.webp`), and on the English site the same photo with the owner's "What's Included" list placed into the frame (`hero-duas-en-*.webp`). Real door photos are used for the "Transparent oder weiß?" comparison and the "Im Alltag" gallery. "Die 12 Duas im Set" is a text list only.
+  - Both sites use the same hero photo with the framed "Enthaltene Duas" list (`hero-duas-*.webp`), as the owner decided. Real door photos are used for the "Transparent oder weiß?" comparison and the "Im Alltag" gallery. "Die 12 Duas im Set" is a text list only.
 - **Salt grinder:** product photo and the final label. The food information box was filled in from the label.
 - **Napkins:** 12 designs plus one table photo.
 - **Crochet set:** 4 photos. The text comes from the Etsy listing.
