@@ -273,3 +273,15 @@ section { scroll-margin-top: 92px; }
   section { scroll-margin-top: 100px; }
 }
 @media (max-width: 519px) { .header-tools > .btn { display: none; } }
+
+/* Bigger menu text; anchors for napkins/crochet clear the sticky header */
+#servietten, #gehaekeltes, #napkins, #crochet { scroll-margin-top: 110px; }
+.site-nav a { font-size: 1.05rem; }
+@media (min-width: 900px) { .site-nav a { font-size: 1.15rem; } .site-nav ul { gap: 28px; } }
+@media (min-width: 900px) and (max-width: 1199px) {
+  .nav-toggle { display: inline-flex; }
+  .site-nav { display: none; position: absolute; left: 0; right: 0; top: 100%; background: var(--bg); border-bottom: 1px solid var(--tint); padding: 8px 32px 16px; }
+  .site-nav.open { display: block; }
+  .site-nav ul { display: block; }
+  .site-nav a { border-bottom: 1px solid var(--tint); padding: 12px 4px; }
+}
