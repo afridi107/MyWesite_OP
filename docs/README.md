@@ -36,14 +36,14 @@ They show up highlighted in yellow on the pages, so nothing goes live unchecked.
 
 1. **Dua stickers:** sticker or sheet size.
 2. **Dua stickers:** waterproof? Removable without residue?
-3. **Salt grinder:** the remaining mandatory label information (e.g. back label). The name and front-label text now come from the photo.
-4. *(done: label name taken from the photo)*
-5. **Crochet baby outfit set:** suitable age/size and care instructions. The 4 pieces, colours and measurements come from your photos; "pure wool" comes from the Etsy listing title.
-6. **Etsy shop URL.** The buttons currently link to the single crochet listing.
-7. **Amazon storefront URL**, if there is one. The "Wo kaufen?" button currently links to the Dua sticker listing B0F8VQGDZ8.
-8. **Privacy policy:** hosting provider, its address and the data processing agreement.
-9. **Privacy policy:** server log retention period, as stated by the host.
-10. **Privacy policy:** date ("Stand").
+3. **Amazon storefront URL**, if there is one. The "Wo kaufen?" button currently links to the Dua sticker listing B0F8VQGDZ8.
+4. **Etsy shop URL.** The buttons currently link to the single crochet listing.
+
+In the Datenschutz pages:
+
+5. Hosting provider, its address and the data processing agreement. On GitHub Pages, that's GitHub.
+6. Server log retention period, as stated by the host.
+7. Date ("Stand").
 
 ### Also to review
 
@@ -56,17 +56,13 @@ They show up highlighted in yellow on the pages, so nothing goes live unchecked.
 
 ## Images
 
-**Done:**
-- **Napkins:** 12 designs plus one table photo. **Crochet set:** main photo plus 3 detail photos. Both come from the photos uploaded to the repo root folders (`Blau/`, `Etsy/`, …).
-- **Dua stickers:** cut-outs from the print designs (`English_Dua_Final.pdf`, `Dua_German_Final_Deisgn2.pdf`). They're used for the hero, the 6 variant cards and the "Die 12 Duas im Set" gallery, which shows all 3 pages. The page says these are print designs, not photos.
-- **Salt grinder:** product photo with the J&F label.
-
 All images are WebP in several sizes (`srcset`), lazy-loaded below the fold and have German and English alt text. They're in `assets/img/products/`.
 
-**Still missing:**
+- **Dua stickers:**
+  - Real photos on a door: the German transparent and white stickers (cards plus the "Transparent oder weiß?" comparison) and two English stickers (the "Im Alltag" gallery and the English hero).
+  - The other variant cards and the "Die 12 Duas im Set" gallery use cut-outs from the print-design PDFs.
+- **Salt grinder:** product photo and the final label. The food information box was filled in from the label.
+- **Napkins:** 12 designs plus one table photo.
+- **Crochet set:** 4 photos. The text comes from the Etsy listing.
 
-| Needed | Where it goes | Placeholder now |
-|---|---|---|
-| 2–4 photos of the stickers applied at home (door, mirror, wall) | "Im Alltag" gallery | `applied-placeholder.svg` |
-| Optional: real photos of each Dua variant (especially transparent vs. white) | variant cards | print-design cut-outs |
-| Logo, if you have one | header/footer | text wordmark "J&F Originals" |
+**Optional improvements:** real photos of the remaining Dua variants (Arabic–English white/edition/black & white, the trilingual version). Note that the German print-design PDF (black curl ornaments) looks different from the German stickers in the photo (leaf ornaments).
