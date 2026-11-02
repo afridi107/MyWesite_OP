@@ -68,3 +68,8 @@ All images are WebP in several sizes (`srcset`), lazy-loaded below the fold and 
 - **Crochet set:** 4 photos. The text comes from the Etsy listing.
 
 **Note:** the hero photo's frame says "Wenn das Dua der Essen vergessen wird", which is ungrammatical. The text list on the site says "Wenn das Dua vor dem Essen vergessen wurde".
+
+## On hold (decide later)
+
+- **Mention the B2B business?** The owner suggested a short box in "Über uns" with a link to the B2B vending website (repo `afridi107/MyWebsite`). The original briefing says *not* to mention the B2B business, so this needs a deliberate decision. Wording proposed in the chat: "Auch für Unternehmen: Service- und Lounge-Konzepte für Gewerbeflächen in der Region Regensburg …" plus a link.
+- **Domain conflict:** the B2B site is set up for `https://jandforiginals.de/`, and this site assumes `https://www.jandforiginals.de/`. Only one of them can use that address. Options include subdomains (e.g. `shop.jandforiginals.de` for the products) or a second domain. Once decided, update the canonical/hreflang URLs, `sitemap.xml`, `robots.txt` and the schema.org URLs here.
