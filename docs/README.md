@@ -36,8 +36,8 @@ They show up highlighted in yellow on the pages, so nothing goes live unchecked.
 
 1. **Dua stickers:** sticker or sheet size.
 2. **Dua stickers:** waterproof? Removable without residue?
-3. **Salt grinder:** name as on the label (e.g. "Steinsalz aus Pakistan, grob").
-4. **Salt grinder:** final label text.
+3. **Salt grinder:** the remaining mandatory label information (e.g. back label). The name and front-label text now come from the photo.
+4. *(done: label name taken from the photo)*
 5. **Crochet baby outfit set:** suitable age/size and care instructions. The 4 pieces, colours and measurements come from your photos; "pure wool" comes from the Etsy listing title.
 6. **Etsy shop URL.** The buttons currently link to the single crochet listing.
 7. **Amazon storefront URL**, if there is one. The "Wo kaufen?" button currently links to the Dua sticker listing B0F8VQGDZ8.
@@ -56,14 +56,17 @@ They show up highlighted in yellow on the pages, so nothing goes live unchecked.
 
 ## Images
 
-**Done (from the photos uploaded to the repo root):** napkins (12 designs plus one table photo) and the crochet set (main photo plus 3 detail photos). They were converted to square WebP in 400 and 800 px and are served with `srcset`, lazy-loading and German and English alt text. They live in `assets/img/products/`. The original uploads stay in the repo root folders (`Blau/`, `Etsy/`, …) and the site doesn't use them directly.
+**Done:**
+- **Napkins:** 12 designs plus one table photo. **Crochet set:** main photo plus 3 detail photos. Both come from the photos uploaded to the repo root folders (`Blau/`, `Etsy/`, …).
+- **Dua stickers:** cut-outs from the print designs (`English_Dua_Final.pdf`, `Dua_German_Final_Deisgn2.pdf`). They're used for the hero, the 6 variant cards and the "Die 12 Duas im Set" gallery, which shows all 3 pages. The page says these are print designs, not photos.
+- **Salt grinder:** product photo with the J&F label.
+
+All images are WebP in several sizes (`srcset`), lazy-loaded below the fold and have German and English alt text. They're in `assets/img/products/`.
 
 **Still missing:**
 
 | Needed | Where it goes | Placeholder now |
 |---|---|---|
-| Main Amazon image for each of the 6 Dua variants | variant cards | `dua-placeholder.svg` |
-| A main Dua image (e.g. sticker sheet) | hero | `dua-placeholder.svg` |
 | 2–4 photos of the stickers applied at home (door, mirror, wall) | "Im Alltag" gallery | `applied-placeholder.svg` |
-| Photo of the salt grinder with its printed box, plus the final label | salt section | `salt-placeholder.svg` |
+| Optional: real photos of each Dua variant (especially transparent vs. white) | variant cards | print-design cut-outs |
 | Logo, if you have one | header/footer | text wordmark "J&F Originals" |

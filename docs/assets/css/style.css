@@ -207,3 +207,17 @@ section { scroll-margin-top: 92px; }
 .thumbs figure { margin: 0; border-radius: 10px; overflow: hidden; aspect-ratio: 1; }
 .thumbs img { width: 100%; height: 100%; object-fit: cover; }
 @media (max-width: 619px) { .hide-sm { display: none; } .grid-4 .btn-row .btn { width: 100%; } }
+
+/* Dua print designs */
+.duas-12 { display: grid; gap: 28px; margin-top: 56px; align-items: start; }
+@media (min-width: 900px) { .duas-12 { grid-template-columns: 1fr 1.3fr; gap: 48px; } }
+.dua-list { margin: 0; padding-left: 1.6em; columns: 1; }
+@media (min-width: 520px) { .dua-list { columns: 2; column-gap: 28px; } }
+.dua-list li { break-inside: avoid; padding: 3px 0; }
+.dua-list li::marker { color: var(--rust); font-family: var(--f-label); font-weight: 600; }
+.sheets { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.sheet { display: block; border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); background: #fff; transition: transform .15s; }
+.sheet:hover { transform: translateY(-2px); }
+.card-media img { background: #fff; }
+.salt-media { background: #E9E2D8; }
+.salt-media img { width: 100%; max-height: 720px; object-fit: contain; }
