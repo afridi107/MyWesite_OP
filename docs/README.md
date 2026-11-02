@@ -34,16 +34,16 @@ Then open http://localhost:8000 in the browser.
 
 They show up highlighted in yellow on the pages, so nothing goes live unchecked.
 
-1. **Dua stickers:** sticker or sheet size.
-2. **Dua stickers:** waterproof? Removable without residue?
-3. **Amazon storefront URL**, if there is one. The "Wo kaufen?" button currently links to the Dua sticker listing B0F8VQGDZ8.
-4. **Etsy shop URL.** The buttons currently link to the single crochet listing.
+*(Sticker size and "waterproof" are now filled in. "Removable without residue" is deliberately not claimed.)*
+
+1. **Amazon storefront URL**: the public link customers see (e.g. `amazon.de/sp?seller=…` or `amazon.de/stores/…`), not a Seller Central link. The "Wo kaufen?" button currently links to the Dua sticker listing B0F8VQGDZ8.
+2. **Etsy shop URL**: the public link (`etsy.com/shop/<ShopName>`), not the shop-manager link. The buttons currently link to the single crochet listing.
 
 In the Datenschutz pages:
 
-5. Hosting provider, its address and the data processing agreement. On GitHub Pages, that's GitHub.
-6. Server log retention period, as stated by the host.
-7. Date ("Stand").
+3. Hosting provider, its address and the data processing agreement. On GitHub Pages, that's GitHub.
+4. Server log retention period, as stated by the host.
+5. Date ("Stand").
 
 ### Also to review
 
