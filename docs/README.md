@@ -9,7 +9,7 @@ A static product showcase in German (default) and English. It has no shop of its
 **Optional, closer to a real web server** (needs Python):
 
 ```bash
-cd website
+cd docs
 python -m http.server 8000
 ```
 
