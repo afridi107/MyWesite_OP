@@ -1,15 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.jandforiginals.de/</loc>
-    <lastmod>2026-11-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.jandforiginals.de/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.jandforiginals.de/en/"/>
+    <loc>https://jandforiginals.de/handgemacht.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/handgemacht.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/handmade.html"/>
   </url>
   <url>
-    <loc>https://www.jandforiginals.de/en/</loc>
-    <lastmod>2026-11-02</lastmod>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.jandforiginals.de/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.jandforiginals.de/en/"/>
+    <loc>https://jandforiginals.de/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/kontakt.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/contact.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/ueber-uns.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/ueber-uns.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/about.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/services/</loc>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/services/kaffeeautomaten.html</loc>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/services/kinderfahrgeschaefte.html</loc>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/services/massagesessel.html</loc>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/services/snackautomaten.html</loc>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/services/so-funktionierts.html</loc>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/shop/dua-aufkleber.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/shop/dua-aufkleber.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/shop/dua-stickers.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/shop/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/shop/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/shop/"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/shop/salzmuehle.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/shop/salzmuehle.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/shop/salt-grinder.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/shop/servietten.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/shop/servietten.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/shop/napkins.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/ueber-uns.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/about.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/contact.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/en/handmade.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/handgemacht.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/handmade.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/en/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/en/shop/dua-stickers.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/shop/dua-aufkleber.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/shop/dua-stickers.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/en/shop/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/shop/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/shop/"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/en/shop/napkins.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/shop/servietten.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/shop/napkins.html"/>
+  </url>
+  <url>
+    <loc>https://jandforiginals.de/en/shop/salt-grinder.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://jandforiginals.de/shop/salzmuehle.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jandforiginals.de/en/shop/salt-grinder.html"/>
   </url>
 </urlset>
